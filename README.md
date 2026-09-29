@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Stack
@@ -32,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0504-base-7) |
 ## Sorting
 |  |
@@ -41,4 +43,8 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
