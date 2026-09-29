@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0504-base-7](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Stack
 |  |
@@ -27,4 +28,8 @@
 |  |
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+## Math
+|  |
+| ------- |
+| [0504-base-7](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0504-base-7) |
 <!---LeetCode Topics End-->
