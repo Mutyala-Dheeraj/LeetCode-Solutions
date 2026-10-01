@@ -26,6 +26,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
