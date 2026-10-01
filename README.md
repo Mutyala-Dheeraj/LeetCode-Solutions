@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0485-max-consecutive-ones](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Bit Manipulation
