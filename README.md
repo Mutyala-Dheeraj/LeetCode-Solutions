@@ -23,6 +23,7 @@
 | [0485-max-consecutive-ones](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
