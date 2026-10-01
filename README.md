@@ -23,6 +23,7 @@
 | [0485-max-consecutive-ones](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -40,10 +41,12 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
 |  |
 | ------- |
