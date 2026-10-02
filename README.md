@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
