@@ -69,6 +69,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Mutyala-Dheeraj/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String Matching
 |  |
